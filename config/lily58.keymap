@@ -76,7 +76,7 @@
 &trans    &trans        &trans            &trans     &trans      &trans                       &trans    &trans     &trans    &trans    &trans     &to 0
 &trans    &kp EXCL      &kp DQT           &kp HASH   &kp DOLLAR  &kp PRCNT                    &trans    &trans     &trans    &trans    &trans     &trans
 &kp CLCK  &kp NUMBER_1  &kp N2            &kp N3     &kp N4      &kp N5                       &kp N6    &kp N7     &kp N8    &kp N9    &kp N0     &trans
-&trans    &kp AT_SIGN   &kp SINGLE_QUOTE  &kp EQUAL  &kp BSPC    &kp BSLH   &trans    &trans  &kp PLUS  &kp MINUS  &kp STAR  &kp FSLH  &kp PRCNT  &trans
+&trans    &kp AT_SIGN   &kp SINGLE_QUOTE  &kp EQUAL  &kp PIPE    &kp BSLH   &trans    &trans  &kp PLUS  &kp MINUS  &kp STAR  &kp FSLH  &kp PRCNT  &trans
                                           &trans     &trans      &trans     &trans    &trans  &trans    &trans     &trans
             >;
         };
